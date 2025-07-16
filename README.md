@@ -3,16 +3,10 @@
 
 **Little Lemon Restaurant – Table Booking App**
 
----
 
 ### Caption:
 
 A simple React-based web application that allows users to book a table at the Little Lemon restaurant. This project demonstrates my understanding of front-end development concepts using React, form handling, state management with `useState`, and deploying a live site with GitHub Pages. Built and deployed as part of the Coursera Meta Front-End Developer Capstone Project.
-
----
-
-Let me know if you'd like to attach a screenshot or walkthrough video too — happy to help you finalize it!
-
 
 
 
